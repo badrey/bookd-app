@@ -16,6 +16,7 @@ export const titleDetailsSceneStyles = StyleSheet.create({
         flexDirection: "row",
     },
     detailsContainer: {
+        flex: 1,
         justifyContent: "center",
         paddingLeft: ScreenPadding,
     },
